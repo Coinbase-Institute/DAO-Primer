@@ -1,0 +1,219 @@
+rank,organization,Categorization,treasury,last 24hrs,top treasury tokens,main treasury chain,governance token holders,active members,proposals,votes,launch date
+1,Uniswap,Protocol ,$2.7B,9%,"UNI,UNI-V1,WJXN,ACE,ETH",Ethereum,342k,8.8k,87,39.7k,09/22/2020
+2,BitDAO,Investment and Grant,$1.1B,-2%,"BIT,ETH,USDC,USDT,FTT",Ethereum,19.4k,47,11,219,06/17/2021
+3,Gnosis,Protocol ,$872.4M,-4.80%,"GNO,ETH,aSTETH,ABSHIBA.com,WETH",Ethereum,18k,1.6k,51,22.1k,11/23/2020
+4,Polkadot,Protocol ,$313M,0.00%,DOT,Substrate,1M,25,287,1.7k,05/26/2020
+5,OlympusDAO,Protocol ,$264M,-0.40%,"DAI,SLP,FRAX,OHM,SLP",Ethereum,16.9k,8.4k,209,46k,05/01/2021
+6,UXDProtocol,Protocol ,$261.1M,-0.70%,"UXP,USDC,SUNNY,SOL,UXD",Solana,6.7k,64,474,1.9k,10/4/2020
+7,Merit Circle,Service and Social,$246.6M,-5.30%,"MC,USDC,UNI-V2,WBTC,wibBTC",Ethereum,7.6k,824,19,2.2k,11/4/2021
+8,Mango DAO,Protocol ,$234M,-2.30%,"MNGO,USDC,SOL,INU,WAGMI",Solana,11.1k,422,246,2.9k,12/8/2021
+9,Decentraland,Service and Social,$218.5M,-4%,"MANA,USDT,SLP,DAI,ENS",Ethereum,288.6k,3.4k,1.3k,34.8k,02-20-2020
+10,Aave,Protocol ,$157.7M,5.80%,"AAVE,aUSDC,XMAS,aDAI,aUSDT",Ethereum,146.4k,19.8k,126,172k,06-21-2021
+11,Compound,Protocol ,$156.7M,10.90%,"COMP,ETH,USDC,cUNI,UNI",Ethereum,200.4k,2.3k,131,6.1k,04-26-2020
+12,Aragon Network Budget,Investment and Grant,$141.3M,-1.80%,"USDC,ETH,ANT,UNI-V2,MANA",Ethereum,9,9,340,538,07-03-2020
+13,Lido,Protocol ,$130.8M,-16.60%,"LDO,ETH,stETH,MATIC,USDC",Ethereum,22.6k,480,97,7.5k,02-01-2021
+14,Radicle,Media,$114.7M,0.10%,"RAD,USDC,UNI-V2,ETH,WETH",Ethereum,6.9k,463,17,622,02-28-2021
+15,ENS,Protocol ,$108.9M,-7.60%,"ENS,USDC,ETH,SMTH,HSF",Ethereum,155.1k,86.3k,43,103.2k,11-19-2021
+16,Ribbon,Protocol ,$106.6M,-3.50%,"RBN,USDC,UNI-V2,yvUSDC,ETH",Ethereum,5.5k,1.2k,22,4k,05-31-2021
+17,SuperRare,Service and Social,$97.2M,-3.80%,"RARE,ETH,HSF",Ethereum,8.9k,512,11,1k,08-17-2021
+18,Maker Dao,Protocol ,$74.6M,-1.90%,"MKR,ENS,AAVE,stkAAVE,BAT",Ethereum,89.2k,0,0,0,12-18-2017
+19,Gitcoin,Investment and Grant,$65.5M,-6.80%,"GTC,DAI,AKITA,ETH,ABSHIBA.com",Ethereum,26.2k,4.6k,96,45.2k,05-25-2021
+20,DXdao,Service and Social,$64.4M,-1.60%,"DXD,ETH,USDC,SWPR,DAI",Ethereum,530,220,790,2.3k,05-29-2019
+21,API3,Service and Social,$62.2M,-5.10%,"API3,USDC,PNK,ETH",Ethereum,19.1k,10,71,197,07-08-2021
+22,KeeperDAO,Protocol ,$53.9M,-2.20%,"ROOK,DAI,ETH,WETH,USDC",Ethereum,19.4k,230,27,874,07-18-2020
+23,Solend,Protocol ,$50.2M,-1.30%,"SLND,USDC,USDT,SOL,LDO",Solana,11.7k,213,3,310,06-19-2022
+24,Popcorn,Investment and Grant,$49M,-1.00%,"POP,USDC,G-UNI,BTR,ETH",Polygon,849,594,10,970,11-24-2021
+25,WOO DAO,Investment and Grant,$47.3M,-3.70%,"WOO,WETH,DODO,USDC,ETH",Ethereum,12.8k,0,0,0,12-06-2021
+26,Rarible,Protocol ,$42.8M,-1.50%,"RARI,USDC,ETH,WETH,DAI",Ethereum,25.5k,2.2k,136,8k,09-12-2020
+27,yearn.finance,Investment and Grant,$34.4M,-4.90%,"YFI,USDC,3Crv,yvCurve-3pool,yvUSDC",Ethereum,57.3k,3.3k,16,4.8k,07-17-2020
+28,Instadapp,Protocol ,$34M,1.80%,"INST,ETH",Ethereum,4.2k,102,14,269,06-16-2021
+29,Nouns DAO,Service and Social,$32.4M,-1.40%,"ETH,stETH,MVDG,PMON,HSF",Ethereum,328,151,125,1.7k,09-13-2021
+30,Balancer,Protocol ,$31.3M,-5.30%,"BAL,FEI,bb-a-USD,USDC,TRIBE",Ethereum,46.3k,7.9k,168,51.6k,05-15-2020
+31,Aavegotchi,Service and Social,$30.3M,0.50%,"DAI,GHST,MATIC,ETH",Ethereum,13.6k,6k,328,156.3k,03-31-2022
+32,Tornado Cash,Protocol ,$29.9M,-3.40%,"TORN,ETH,SHERPA,WETH",Ethereum,8.9k,137,26,415,07-01-2020
+33,Nation3,Service and Social,$29.5M,-3%,"NATION,80NATION-20WETH,ETH",Ethereum,1k,0,79,64,04-08-2022
+34,Fei,Protocol ,$28.4M,-20.90%,"TRIBE,SACKS,FEI,USDC,VOLT",Ethereum,18.4k,4.9k,128,13.5k,04-10-2021
+35,Acala,Protocol ,$27.8M,0.00%,ACA,Substrate,161.2k,8,107,347,01-06-2020
+36,Metaplex,Service and Social,$26.5M,0.30%,"USDC,SOL",Solana,6,8,31,89,11-09-2021
+37,Sushiswap,Protocol ,$26.4M,6.30%,"SUSHI,sushiHOUSE,USDC,SAK3,DAI",Ethereum,10.1k,10.1k,269,40.8k,09-07-2020
+38,Kusama,Protocol ,$25.2M,0.00%,KSM,Substrate,253.8k,65,724,5k,04-24-2020
+39,Cryptex,Protocol ,$22.6M,-1.10%,"CTX,USDC,WETH,ETH,LINK",Ethereum,1.4k,40,22,102,05-27-2021
+40,Badger DAO,Service and Social,$20.8M,-2.70%,"BADGER,WETH,cDAI,aUSDC,aUSDT",Ethereum,43.7k,10.5k,132,70.1k,11-28-2020
+41,Notional Finance,Protocol ,$20.2M,0.20%,"NOTE,WETH,USDC,ETH,WBTC",Ethereum,1.7k,133,10,476,10-26-2020
+42,Serum,Protocol ,$19.8M,10.80%,"SRM,INU,SOL,GYC",Solana,50k,118,37,196,10-17-2021
+43,Fingerprints DAO,Investment and Grant,$19.8M,-4.30%,"PRINTS,USDC,RAW,ETH,WETH",Ethereum,463,184,18,481,05-13-2021
+44,Decentral Games,Service and Social,$19.5M,-1.70%,"ABSHIBA.com,DUREX,A68.net,KyDy.org,Up1.org",Ethereum,3.5k,975,116,19.2k,12-22-2020
+45,ShapeShift,Service and Social,$19M,-7%,"FOX,fFOX-7,USDC,fFOX-79,TRIBE",Ethereum,38.6k,1.3k,83,9k,07-21-2021
+46,PrimeDAO,Investment and Grant,$18.7M,-5.30%,"D2D,USDC,D2D,GTC,GIV",Ethereum,246,40,87,297,12-03-2020
+47,Ampleforth,Protocol ,$17.9M,-6.50%,"FORTH,AMPL,UNI-V2,MOON-V1-aAMPL-AMPL,USDC",Ethereum,24k,234,20,523,06-09-2021
+48,Tempus DAO,Protocol ,$16.8M,-2%,"TEMP,B-80TEMP-20WETH,TPS-stETH-30-7-2022,stETH,ETH",Ethereum,1.1k,99,7,184,01-21-2022
+49,NFTX,Protocol ,$16.5M,0.60%,"NFTX,PUNK,SLP,USDC,fPUNK-31",Ethereum,5.8k,464,377,1.3k,01-03-2021
+50,PartyDAO,Service and Social,$15.8M,-0.10%,"USDC,ETH,WETH,YUP",Ethereum,188,95,13,262,05-06-2021
+51,Silo,Protocol ,$14.2M,-0.60%,"USDC,WETH,FXS,CVX,ETH",Ethereum,4.2k,230,7,419,12-22-2021
+52,Synthetix,Protocol ,$13.2M,-0.20%,"SNX,sUSD,USDC,DAI,aSNX",Ethereum,110k,8.1k,46,11.2k,11-30-2020
+53,Index Coop,Service and Social,$12.9M,32.30%,"INDEX,fG-UNI-FEI-USDC-8,fG-UNI-FEI-DAI-8,USDC,G-UNI",Polygon,7k,2.8k,408,18.1k,11-04-2021
+54,Unlock,Protocol ,$11.7M,-3.60%,"UDT,USDC,DAI,UNI-V2,ETH",Ethereum,4.9k,151,22,402,06-04-2021
+55,MANTRA DAO,Protocol ,$8.9M,-7.70%,"OM,ETH,OM",Ethereum,9.6k,1.2k,88,6.9k,11-10-2020
+56,MeebitsDAO,Investment and Grant,$8.6M,-4.10%,"ETH,USDC,WETH,YGG,ape",Ethereum,3.5k,83,23,455,06-11-2021
+57,DeFiGeek Community,Service and Social,$8.1M,-5.60%,"BPT-V1,TXJP,98TXJP-2WETH,cETH,akSwap.io",Ethereum,370,211,22,745,01-27-2021
+58,Inverse,Protocol ,$8.1M,36%,"INV,ABSHIBA.com,DOLA,SLP,SLP",Ethereum,3.4k,420,29,1.7k,01-02-2021
+59,pNetwork,Protocol ,$7.7M,0.70%,"PNT,ETH,UNI-V2,IQ",Ethereum,1.6k,14,4,13,10-25-2021
+60,MoonDAO,Service and Social,$7.7M,-8.30%,"MOONEY,DAI,ETH,JBX,USDC",Ethereum,8.6k,1.7k,25,6.3k,01-24-2022
+61,BarnBridge,Protocol ,$7.5M,-3.60%,"BOND,USDC,DAI,USDT,GUSD",Ethereum,11.7k,461,71,1.5k,08-21-2020
+62,MetaCartel Ventures,Investment and Grant,$7M,-1.80%,"USDC,WETH,RAI,FLX,DAI",Ethereum,125,103,479,1.5k,11-25-2020
+63,The LAO,Investment and Grant,$6.9M,-4.50%,"WETH,ETH",Ethereum,142,113,174,471,04-28-2020
+64,Crust,Protocol ,$6.5M,0.00%,CRU,Substrate,78.5k,12,6,20,12-02-2019
+65,Stakeborg DAO,Service and Social,$6.4M,0.10%,"STANDARD,ILSI,ETH",Ethereum,772,94,2,241,05-06-2022
+66,Paragons,Service and Social,$6.3M,-1.60%,"DAI,USDC,PDT,ETH,USDT",Ethereum,1.4k,293,17,692,12-04-2021
+67,dHedge,Protocol ,$6.2M,2%,"DHT,aUSDC,sUSD,aSUSD,MASK",Ethereum,4k,258,77,1.2k,07-07-2020
+68,Alchemix,Protocol ,$5.7M,-9.10%,"ALCX,yvDAI,yvWETH,DAI,WETH",Ethereum,13.1k,2k,61,9.1k,02-28-2021
+69,PieDAO,Investment and Grant,$4.9M,80.70%,"DOUGH,BPT-V1,USDC,UNI-V2,gOHM",Ethereum,3.5k,458,433,6.4k,04-27-2020
+70,Polywrap,Protocol ,$4.7M,-0.10%,"USDC,ETH,USDT,UNI,MANA",Ethereum,61,61,129,584,10-22-2020
+71,Botto,Media,$4.7M,-4.80%,"BOTTO,UNI-V2,ETH,WETH,USDC",Ethereum,3.2k,114,8,332,03-01-2022
+72,Own.fund DAO,Investment and Grant,$4.4M,-2%,"USDC,ETH,DAI,JBX,ENS",Ethereum,53,40,62,674,08-12-2021
+73,Global Coin Research,Investment and Grant,$4.4M,0.60%,"GCR,USDC,cUSDC,aUSDC,yvUSDC",Ethereum,761,84,6,148,11-16-2021
+74,SquiggleDAO,Service and Social,$4.3M,-1.10%,"USDC,ETH,SACKS",Ethereum,819,268,36,691,03-27-2021
+75,Tracer,Service and Social,$4.3M,-7.70%,"TCR,LINK,DAI,ETH,WBTC",Ethereum,1.9k,121,44,665,03-24-2021
+76,Airalab,Service and Social,$4.2M,-1.30%,"XRT,RWS,DAI,ETH,UNI-V2",Ethereum,27,26,288,510,09-15-2020
+77,Dtravel,Service and Social,$4.2M,-4.50%,"TRVL,ETH",Ethereum,2.1k,0,0,0,06-16-2021
+78,Bifrost,Protocol ,$4M,0.00%,BNC,Substrate,82.3k,20,421,961,04-28-2020
+79,bZx,Protocol ,$3.9M,-3.70%,"OOKI,BZRX,USDT,3Crv,ETH",Ethereum,5.9k,83,10,186,02-05-2021
+80,OOKI,Protocol ,$3.9M,-3.90%,"OOKI,BZRX,USDT,3Crv,ETH",Ethereum,1.2k,25,6,35,01-04-2022
+81,PleasrDAO,Investment and Grant,$3.6M,-68.90%,"USDC,shi,ETH,CUBT,HSF",Ethereum,78,78,53,993,04-13-2021
+82,VitaDAO,Investment and Grant,$3.5M,-1.00%,"VITA,USDC,ETH,stETH,VBPT",Ethereum,1.3k,175,37,872,12-28-2021
+83,Doodles,Service and Social,$3.5M,-3.60%,"ETH,WETH",Ethereum,7.6k,3.5k,39,12.8k,10-24-2021
+84,ForeFront,Media,$3.4M,-2.60%,"FF,USDC,ETH,INDEX,ROBOT",Ethereum,1.5k,231,21,579,07-12-2021
+85,PoolTogether,Service and Social,$3.3M,7.20%,"POOL,aDAI,GTC,COMP,TRIBE",Ethereum,9.2k,839,60,2.3k,03-02-2021
+86,Moonbeam,Protocol ,$3.1M,0.00%,GLMR,Substrate,190.6k,0,95,281,12-02-2019
+87,Yam Finance,Service and Social,$3.1M,-0.30%,"yvUSDC,WETH,DPI,yvsteCrv,UMA",Ethereum,16.4k,5.1k,188,19.8k,08-24-2020
+88,Code4rena,Service and Social,$2.9M,-11.90%,"USDC,USDT,DAI,FEI,ETH",Ethereum,0,0,0,0,
+89,Bankless DAO,Media,$2.7M,-4.90%,"BANK,80BANK-20WETH,WETH,SLP,ROBOT",Ethereum,6.8k,3.1k,39,15k,05-04-2021
+90,CityDAO,Investment and Grant,$2.4M,-3.60%,"WETH,USDC,ETH,KRAUSE,BACON",Ethereum,6.4k,3.1k,38,15.5k,08-31-2021
+91,Perpetual Protocol,Protocol ,$2M,-0.40%,"UNI-V2,WETH,FXS,DHT,DTOP",Ethereum,10.6k,683,30,2k,01-13-2021
+92,JuiceboxDAO,Protocol ,$1.8M,-4.80%,"ETH,JBX,USDC,ENS,GRT",Ethereum,4.2k,773,188,11.3k,08-15-2021
+93,Braintrust,Service and Social,$1.5M,-0.20%,"BTRST,ETH",Ethereum,89,89,18,272,08-24-2021
+94,Unslashed,Protocol ,$1.5M,5.10%,"USF,PERP,ETH",Ethereum,1.4k,0,0,0,03-03-2021
+95,Aragon Trust,Protocol ,$1.5M,-4.30%,"ANT,ETH,DAI,KEEP,MKR",Ethereum,9,7,100,173,03-30-2020
+96,Dope Wars,Service and Social,$1.4M,-5.50%,"PAPER,ETH,MOCA,USDC,WETH",Ethereum,2.8k,684,51,2.2k,09-03-2021
+97,metaCOLLECTIVE,Investment and Grant,$1.2M,-1.30%,"USDC,SOL,ETH,USDT,mSOL",Solana,203,38,78,330,01-19-2022
+98,Varen,Protocol ,$1.1M,-17.60%,"VRN,sYFL,USDT,DAI,USDC",Ethereum,999,110,21,426,05-12-2021
+99,"LilNouns DAO
+",Service and Social,$1.1M,-1.60%,"ETH,LIL,WETH",Ethereum,1.3k,210,27,637,05-11-2022
+100,Idle Finance,Protocol ,$1.1M,-3.80%,"IDLE,WETH,AAVE,stkAAVE,COMP",Ethereum,4.3k,362,96,1.3k,11-27-2020
+101,Spice DAO,Service and Social,$895k,0.00%,"ETH,SPICE,UNI-V2,USDC",Ethereum,963,176,10,440,01-10-2022
+102,BProtocol,Investment and Grant,$863.8k,-0.40%,"BPRO,ETH",Ethereum,1.7k,0,0,0,10-01-2020
+103,Gas DAO,Service and Social,$815.3k,-2.20%,"GAS,ETH",Ethereum,47.9k,944,20,2k,12-29-2021
+104,Lobby,Media,$702.7k,-4.50%,"UNI-V2,LBY,WETH,ETH",Ethereum,1.1k,7,1,6,12-07-2021
+105,Babylon.finance,Investment and Grant,$681.3k,-4.10%,"BABL,WETH,DAI,USDC,ETH",Ethereum,1.5k,173,26,291,10-08-2021
+106,Float Protocol,Protocol ,$679.3k,-3%,"FLOAT,WETH,fDAI-90,fETH-90,ETH",Ethereum,3.2k,3.2k,42,7.5k,02-15-2021
+107,Bright Moments,Service and Social,$661.7k,2.20%,"USDC,ETH,USDT,WETH,MATIC",Ethereum,1.3k,504,22,1.2k,08-20-2021
+108,necDAO,Service and Social,$628.9k,-4.60%,"stETH,ETH,GEN",Ethereum,151,53,40,134,01-26-2020
+109,LeagueDAO,Service and Social,$517.4k,0.00%,"DAI,LEAG,USDC,ETH,BOND",Ethereum,387,44,14,97,08-26-2021
+110,APE DAO,Investment and Grant,$388k,-4.70%,"NIKE,KyDy.org,rETH,Riot,akSwap.io",Ethereum,1.5k,530,48,2.5k,07-17-2021
+111,GSAIL GOVERNANCE DAO,Service and Social,$253.9k,2.50%,"gSAIL,SOL",Solana,4.7k,89,43,364,11-19-2021
+112,AssangeDAO,Investment and Grant,$233.2k,-4.30%,"ETH,JUSTICE,WETH,BNB,JBX",Ethereum,8.1k,1.1k,11,3.6k,02-21-2022
+113,Moonriver,Protocol ,$230k,0.00%,"GLMR,GLMR",Substrate,225k,4,120,221,06-29-2021
+114,StakeWise,Investment and Grant,$192.1k,-6.50%,"SWISE,ETH",Ethereum,1.9k,301,40,1.1k,03-01-2021
+115,UkraineDAO,Investment and Grant,$185.7k,-3.60%,"DAI,LOVE,STARL,MATIC,BNB",Ethereum,3.6k,0,0,0,02-26-2022
+116,dOrg,Service and Social,$163.2k,0.90%,"USDC,DAI,ETH,GEN,REQ",Ethereum,90,81,260,1.2k,03-06-2020
+117,Unicly,Protocol ,$161.5k,-13.90%,"unic,akSwap.io,ETH,uUNICLY,ENS",Ethereum,738,126,37,398,05-20-2021
+118,0x117d1F8CB4Bf6e74Bc5D667f15af7b810baCCCD6,Protocol ,$122k,-4.60%,"ETH,MANA,REP,SAI,WSG",Ethereum,6,6,212,417,12-10-2019
+119,Stacker Ventures,Investment and Grant,$120.5k,-4.50%,"STACK,ibETHv2,UNI-V2,DAI,ETH",Ethereum,1.4k,88,34,213,02-17-2021
+120,Odyssy,Service and Social,$96.9k,3.50%,"HAUS,RAID,esr,ETH",Ethereum,6,6,10,13,04-01-2021
+121,Shark DAO,Investment and Grant,$89.2k,-4.30%,"ETH,SLP,SHARK",Ethereum,565,565,165,5.6k,08-09-2021
+122,CrisisDAO,Service and Social,$89.1k,-4.80%,"WETH,ape,ETH,WRLD,ENS",Ethereum,60,60,74,942,05-06-2021
+123,FreeRossDAO,Service and Social,$59.3k,56%,"USDC,FREE,ETH,USDT,BNB",Ethereum,4.8k,708,13,1.2k,12-17-2021
+124,WOOF DAO,Service and Social,$35.3k,2.40%,"mSOL,WOOF,USDC,BDE,SOL",Solana,27.2k,10,63,260,01-13-2022
+125,GRAPE,Service and Social,$31.9k,3.60%,"GRAPE,SOL",Solana,13.2k,365,53,1.6k,12-15-2021
+126,JINN,Investment and Grant,$31.6k,-4.50%,"WETH,ETH",Ethereum,11,6,10,9,07-31-2021
+127,BullsOnTheBlock (BOTB),Media,$29.9k,-4.40%,"ETH,ENS,WETH,MATIC",Ethereum,2.3k,950,33,3.2k,09-27-2021
+128,cadcad,Service and Social,$29.5k,-0.70%,"USDC,DAI,ETH,PAN,BRIGHT",Ethereum,6,2,5,2,06-11-2020
+129,Warcamp,Service and Social,$29.3k,2.90%,"HAUS,GNO,esr,LEVIN,XGT",Ethereum,92,72,347,550,09-07-2020
+130,murziki,Investment and Grant,$25.7k,-4.60%,"ETH,SAI",Ethereum,4,3,13,14,12-22-2018
+131,BerezkafLexDAO,Investment and Grant,$25.7k,23.90%,"USDC,AAVE,COMP,SUSHI,aUSDC",Ethereum,150,6,847,1.3k,04-11-2021
+132,blequity,Service and Social,$24.6k,-4.60%,ETH,Ethereum,8,3,4,6,06-13-2020
+133,Aragon One,Service and Social,$21.3k,-1.30%,"DAI,ETH,USDC,ULT,SAI",Ethereum,13,12,194,294,11-14-2018
+134,Raid Guild War Chest,Investment and Grant,$21k,-3.90%,"WETH,DAI,ETH",Ethereum,97,90,188,225,04-09-2020
+135,flamingo,Investment and Grant,$20.9k,-4.50%,"WETH,ZENIQ,ETH",Ethereum,0,0,0,0,10-08-2020
+136,Trojan DAO,Media,$20.4k,-4.30%,"WETH,ETH",Ethereum,19,7,35,43,09-15-2019
+137,1HiveLLC,Protocol ,$19.1k,-0.20%,"DAI,USDC,ETH,ANT,SAI",Ethereum,19,5,108,124,12-11-2019
+138,Meta Gamma Delta,Service and Social,$18.1k,-0.20%,"DAI,ETH",Ethereum,102,61,118,336,02-14-2020
+139,SOCEAN,Protocol ,$15.6k,-4.30%,"scnSOL,SOL",Solana,0,3,8,24,09-14-2021
+140,Governor DAO,Service and Social,$15k,-9.50%,"UNI-V2,USDC,GDAO,ETH,WETH",Ethereum,2k,135,65,406,12-21-2020
+141,Monke,Service and Social,$15k,-0.70%,"DAOJONES,USDC,SOL,SHDW,LUNA",Solana,0,16,108,752,12-17-2021
+142,elimu.ai,Service and Social,$13.3k,-5.30%,"ANT,GTC,ETH,ENS,aDAI",Ethereum,0,0,29,56,06-19-2020
+143,DAO Masters,Media,$12.5k,-4.60%,"ETH,ENS,DAI,USDC,MATIC",Ethereum,322,77,10,218,10-13-2021
+144,Cyber Congress,Protocol ,$12.2k,-4.50%,ETH,Ethereum,78,8,16,21,04-10-2020
+145,FiatLuxDAO,Service and Social,$12.2k,-4.60%,ETH,Ethereum,0,0,0,0,06-07-2021
+146,MetaCartel v2,Investment and Grant,$11.9k,-0.80%,"DAI,WETH,ETH",Ethereum,119,40,157,191,05-28-2020
+147,lexDAO,Service and Social,$11.3k,-1.00%,"UNI,ETH,DAI,CHAI,HAUS",Ethereum,42,25,88,304,11-13-2019
+148,Alphr DAO,Protocol ,$10.9k,9.30%,"ALPHR,ETH",Ethereum,46,46,8,132,07-28-2021
+149,HausDAO,Investment and Grant,$10.1k,-0.10%,"DAI,ETH",Ethereum,45,44,57,53,07-25-2020
+150,Jenny Metaverse DAO,Investment and Grant,$9.9k,-4.20%,"akSwap.io,A68.net,WxFi.io,ETH,LOOKS",Ethereum,791,112,42,306,05-17-2021
+151,MarsDao,Investment and Grant,$9.8k,-2.30%,"ETH,DAI,UNI,CRV,SUSHI",Ethereum,73,13,219,133,11-8-2019
+152,XDAO,Protocol ,$8.2k,4.90%,"HAUS,esr,ETH",Ethereum,11,2,7,7,04-13-2021
+153,Rocket LP DAO,Service and Social,$7.5k,-4.50%,"WETH,dca,ETH",Ethereum,22,7,29,39,01-16-2020
+154,Congruent,Investment and Grant,$7.2k,0.10%,"USDC,MTA,DAI,FXS,BUSD",Ethereum,965,615,8,1.5k,02-17-2022
+155,Arca,Service and Social,$7k,-0.10%,"DAI,ETH",Ethereum,26,21,59,342,01-23-2020
+156,Burn Signal,Service and Social,$6.4k,-2.10%,"DAI,WETH,DATA,USDC,PAN",Ethereum,0,0,0,0,
+157,Keytree,Service and Social,$5.9k,-4.50%,ETH,Ethereum,3,3,5,5,07-27-2019
+158,Futhorc Ecosystems,Investment and Grant,$5.8k,-4%,"SAI,ETH,WBTC,LPT,NPXS",Ethereum,6,6,20,42,04-07-2019
+159,Buyback CC1,Service and Social,$5.5k,4.90%,"HAUS,LEVIN,esr,ETH",Ethereum,15,14,16,17,03-11-2021
+160,0x06Bdd90Cc7122D4531ab7CbB3C22D265Cb112ABD,Service and Social,$5k,-0.90%,"DAI,ETH,SAI",Ethereum,12,12,10,8,01-20-2020
+161,TYAN Intergalactic,Service and Social,$4.4k,-4.40%,"LEVIN,XGT,ETH",Ethereum,34,28,49,94,09-05-2020
+162,Srt,Service and Social,$4k,-4.50%,ETH,Ethereum,4,3,3,4,04-23-2020
+163,PegzDAO,Service and Social,$3.6k,-4.30%,"WETH,ETH",Ethereum,47,3,2,2,10-01-2021
+164,DAOhaus Second Story CCO,Investment and Grant,$3.5k,4.30%,"HAUS,LEVIN,esr,ETH",Ethereum,372,368,386,268,03-15-2021
+165,Urza,Investment and Grant,$3.5k,-4.50%,"WETH,ETH",Ethereum,5,5,4,3,06-19-2020
+166,Arweavers,Protocol ,$3.5k,-0.10%,"DAI,ETH",Ethereum,5,5,5,8,05-26-2020
+167,Copernicus Beer,Service and Social,$3.4k,-4.30%,"WETH,ETH",Ethereum,21,17,8,55,05-11-2022
+168,Marketing DAO,Service and Social,$3.4k,-4.60%,"WETH,ETH",Ethereum,12,3,10,11,01-20-2020
+169,Betacolony,Investment and Grant,$3.3k,-0.10%,"DAI,ETH",Ethereum,0,0,0,0,
+170,brightiddev,Service and Social,$3.2k,-0.10%,"DAI,TUSD,cSAI,ETH",Ethereum,4,4,68,27,09-27-2019
+171,Curio,Protocol ,$3.1k,14.70%,"CUR,ETH",Ethereum,236,29,52,138,03-21-2020
+172,STAKEhaus,Protocol ,$3k,0.70%,"STAKE,LEVIN,ETH",Ethereum,28,23,34,41,09-09-2020
+173,BrightID,Service and Social,$3k,-3.30%,"ETH,SAI,USDC,DAI,UNI",Ethereum,17,15,104,496,07-12-2019
+174,Metafam,Service and Social,$2.5k,-4.30%,"SEED,ETH",Ethereum,687,25,36,63,06-15-2020
+175,array.finance CCO,Investment and Grant,$2.4k,-2.10%,"HAUS,esr,LEVIN,XGT,ETH",Ethereum,97,92,122,123,01-19-2021
+176,MetaCartel Ventures China,Investment and Grant,$2.1k,-0.20%,"DAI,ETH",Ethereum,17,17,19,32,06-27-2020
+177,Status,Protocol ,$1.9k,-4.10%,"ETH,DAI,SNT,GTC",Ethereum,4,2,13,7,06-24-2020
+178,yEarn DAO ($YFI Community Funding),Investment and Grant,$1.9k,-5.20%,"YFI,DAI,BITTO,ETH",Ethereum,15,14,20,18,07-20-2020
+179,HelpDao,Investment and Grant,$1.7k,-0.10%,"DAI,ETH",Ethereum,4,2,5,5,05-20-2020
+180,Constitution,Service and Social,$1.7k,-4.60%,"ETH,PEOPLE",Ethereum,19.5k,0,0,0,11-01-2021
+181,snglsDAO,Media,$1.6k,-4.70%,"ETH,GEN,SNGLS,SGT",Ethereum,9.6k,0,0,0,03-10-2020
+182,Orochi DAO V2,Service and Social,$1.5k,-0.20%,"DAI,ETH",Ethereum,10,3,11,10,01-17-2020
+183,UberHAUS,Investment and Grant,$1.3k,-3.50%,"RAID,HAUS,esr,ETH",Ethereum,131,69,73,113,03-30-2021
+184,Pangolin,Protocol ,$1.1k,9.70%,"USDT,DYP,AVAX,PNG,ETH",Ethereum,714,714,42,1.9k,03-11-2021
+185,21DAO,Service and Social,$947.60,-1.40%,"USDC,SOL,SOL",Solana,0,6,27,155,11-13-2021
+186,Raid Guild,Service and Social,$917.20,-4.50%,"WETH,ETH",Ethereum,60,38,61,121,09-17-2020
+187,CENNZnet Grants DAO,Investment and Grant,$855.80,-2.90%,"ETH,DAI,GEN,CENNZ",Ethereum,13,12,21,30,04-20-2020
+188,ApocalypseDAO,Protocol ,$826.20,-4.40%,ETH,Ethereum,7,7,22,32,12-07-2019
+189,Cura Dao,Investment and Grant,$482.30,-1.60%,"DAI,PAN,ETH,SAI,GEN",Ethereum,58,21,49,103,08-06-2019
+190,Estonia,Service and Social,$402.60,-0.10%,"DAI,PAN,ETH,USDC",Ethereum,6,2,7,1,03-26-2020
+191,Creative Collabo DAO,Investment and Grant,$312.50,-4.50%,"WETH,ETH",Ethereum,6,1,6,5,02-14-2020
+192,Conjure,Protocol ,$269.60,-4.50%,ETH,Ethereum,317,0,0,0,02-21-2021
+193,MetaClan,Service and Social,$250.80,-0.20%,"DAI,ETH",Ethereum,67,64,88,84,04-24-2020
+194,Genesis Alpha,Service and Social,$158.80,-4.20%,"ETH,DAI,PAN,GEN,SAI",Ethereum,295,214,387,2.2k,08-14-2019
+195,AirSwap,Service and Social,$145.50,-4.50%,"ETH,GSC,PXC,DTA,XLAB",Ethereum,13.7k,531,63,8.3k,10-13-2020
+196,Fest Dao,Service and Social,$91.50,-2.50%,"DAI,ETH,PAN,SAI,USDC",Ethereum,48,35,86,132,10-26-2019
+197,clr.fund,Protocol ,$73,-1%,"USDC,SAI,DAI,XDAI,USDT",Ethereum,0,0,0,0,11-01-2019
+198,MansaNetwork,Service and Social,$54.20,6.20%,"LEND,DAI,BAL,MKR,USDC",Ethereum,6,3,20,18,06-28-2020
+199,Machi X DAO,Service and Social,$44.20,-0.20%,"MCX,ETH,WETH",Ethereum,41,40,49,47,03-23-2020
+200,Enzyme Finance,Protocol ,$23.40,-4.50%,ETH,Ethereum,26,23,88,292,04-18-2019
+201,BasedFinance,Investment and Grant,$11.80,-1.90%,"WETH,DAI,xSUSHI,ETH",Ethereum,2,2,3,3,12-16-2021
+202,DeoraTest,Investment and Grant,$10.90,-0.10%,"DAI,ETH",Ethereum,7,4,16,17,01-17-2020
+203,6Ef0c0b0,Service and Social,$10,-0.10%,"DAI,aLEND,LEND,ETH,aETH",Ethereum,6,6,138,223,12-13-2019
+204,mStable,Protocol ,$3,-0.10%,"BPT-V1,USDT,MTA,BAL,DAI",Ethereum,2.1k,2.1k,276,10.2k,07-13-2020
+205,Collab19,Investment and Grant,$1,-0.10%,"DAI,ETH",Ethereum,78,20,43,53,04-16-2020
+206,Daoversify,Investment and Grant,$1.00,-5.70%,"CRV,yCrv,cUSDC,ETHRSIAPY,cUSDT",Ethereum,4,2,4,4,06-12-2020
+207,MetaCartel,Investment and Grant,$0.90,-4.40%,"WETH,dca,ETH",Ethereum,112,52,147,425,06-05-2019
+208,Aragon Association DAO,Investment and Grant,$0.40,-4.40%,"ETH,DAI,CHAI,SAI",Ethereum,8,6,71,56,01-29-2020
+209,Hakt DAO,Investment and Grant,$0.30,-4.50%,"ETH,STACK,USDT",Ethereum,63,11,3,17,10-19-2021
+210,ShillShop,Service and Social,$0.30,-1.60%,"LEVIN,XGT,ETH",Ethereum,17,14,33,53,03-10-2021
+211,Le DAO,Service and Social,$0.20,-1.40%,SOL,Solana,0,12,29,238,01-18-2022
+212,Governance,Service and Social,$0.20,-1.30%,SOL,Solana,0,1,7,8,08-11-2021
+213,Moloch,Investment and Grant,$0.10,-2.80%,"ZENIQ,WETH,ETH",Ethereum,118,73,144,700,02-14-2019
+214,1UP,Service and Social,$0.10,-5.20%,"GEN,DAI,PAN,ETH,USDC",Ethereum,18,18,40,33,03-23-2020
+215,Bonfida DAO,Protocol ,$0.10,-1.70%,SOL,Solana,533,62,18,122,01-12-2022
+216,DimensionLab,Service and Social,$0.00,-6.50%,"WSG,FREE,ETH,SAI",Ethereum,2,2,3,2,06-23-2019
+217,MyDaoDashboard,Service and Social,$0.00,0.10%,"FREE,DAI,ETH,SAI",Ethereum,9,8,30,39,08-23-2019
